@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working on high-performance mathematical software and embedded systems software, such as [`real-time-cpp`](https://github.com/boostorg/real-time-cpp), [`wide-integer`](https://github.com/ckormanyos/wide-integer), [`wide-decimal`](https://github.com/ckormanyos/wide-decimal), [`Boost.Multiprecision`](https://github.com/boostorg/multiprecision) and [`Boost.Math`](https://github.com/boostorg/math).
 - 🌱 I’m currently learning how to increase software quality while attaining high performance and portability.
+- 🤔 I’m looking for help with creating/using Docker images in CI
 
 <p>
 <img allign="right" src="https://github-readme-stats.vercel.app/api?username=ckormanyos&count_private=true&show_icons=true&theme=blueberry"/>
