@@ -4,6 +4,4 @@
 - 🌱 I’m currently learning how to increase software quality while attaining high performance and portability.
 - 🤔 I’m looking for help with creating/using Docker images in CI
 
-<p>
-<img allign="right" src="https://github-readme-stats.vercel.app/api?username=ckormanyos&count_private=true&show_icons=true&theme=blueberry"/>
-</p>
+![ckormanyos' GitHub stats](https://github-readme-stats.vercel.app/api?username=ckormanyos&theme=default&show_icons=true)
