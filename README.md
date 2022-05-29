@@ -2,7 +2,7 @@
 
 I'm a software developer, independent researcher and book author with focus on all aspects of high-performance, portable software. I have particular interest in embedded-systems software and mathematical software.
 
-My areas of expertise include implementation, teaching and training, product development, continuous integration, quality, team leadership, international development, documentation and providing support roles.
+My areas of expertise include software implementation, teaching and training, product development, continuous integration, quality, team leadership, international development, documentation and providing support roles.
 
 - 🔭 High-performance mathematical software and embedded-systems software, such as [`real-time-cpp`](https://github.com/boostorg/real-time-cpp), [`wide-integer`](https://github.com/ckormanyos/wide-integer), [`wide-decimal`](https://github.com/ckormanyos/wide-decimal), [`Boost.Multiprecision`](https://github.com/boostorg/multiprecision) and [`Boost.Math`](https://github.com/boostorg/math).
 - 🌱 Continually increasing software quality, performance and portability.
