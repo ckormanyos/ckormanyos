@@ -1,6 +1,6 @@
 # Welcome
 
-I am an independent researcher and book author with a wide range of knowledge, focused on high-performance mathematical software and embedded-systems software. I have extensive and deep experience with software implementation, training, product development, software quality, documentation and providing support roles.
+I am an independent researcher and book author with a wide range of knowledge, focused on embedded-systems software and high-performance mathematical software. I have extensive and deep experience with software implementation, training, product development, software quality, documentation and providing support roles.
 
 - 🔭 High-performance mathematical software and embedded-systems software, such as [`real-time-cpp`](https://github.com/boostorg/real-time-cpp), [`wide-integer`](https://github.com/ckormanyos/wide-integer), [`wide-decimal`](https://github.com/ckormanyos/wide-decimal), [`Boost.Multiprecision`](https://github.com/boostorg/multiprecision) and [`Boost.Math`](https://github.com/boostorg/math).
 - 🌱 Continually increasing software quality, performance and portability.
