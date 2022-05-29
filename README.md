@@ -14,6 +14,6 @@ I am an independent researcher and book author with a wide range of knowledge, f
 
 ![ckormanyos GitHub statistics](https://github-readme-stats.vercel.app/api?username=ckormanyos&theme=material-palenight&show_icons=true)
 
-## Finding me at GitHub
+## Find me at GitHub
 
 [![Github: ckormanyos](https://img.shields.io/badge/-ckormanyos-blue?style=flat-square&logo=GitHub&logoColor=white&color=black&link=https://github.com/ckormanyos)](https://github.com/ckormanyos)
