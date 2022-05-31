@@ -10,8 +10,7 @@ My areas of expertise include software implementation, teaching and training, pr
 
 ## How busy am I ?
 
-<!-- Generate streak: http://github-readme-streak-stats.herokuapp.com/demo/ -->
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ckormanyos&theme=solarized-dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ckormanyos&theme=dark)](https://git.io/streak-stats)
 
 ![ckormanyos GitHub statistics](https://github-readme-stats.vercel.app/api?username=ckormanyos&theme=material-palenight&show_icons=true)
 
