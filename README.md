@@ -11,6 +11,8 @@ My areas of expertise include software implementation, teaching and training, pr
 ## My popular repositories
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ckormanyos&repo=real-time-cpp)](https://github.com/ckormanyos/real-time-cpp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ckormanyos&repo=wide-integer)](https://github.com/ckormanyos/wide-integer)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ckormanyos&repo=wide-decimal)](https://github.com/ckormanyos/wide-decimal)
 
 ## Favorite languages
 
