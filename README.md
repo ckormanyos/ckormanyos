@@ -8,6 +8,10 @@ My areas of expertise include software implementation, teaching and training, pr
 - 🌱 Continually increasing software quality, performance and portability.
 - 🤔 I’m looking for help with Docker.
 
+## My popular repositories
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ckormanyos&repo=real-time-cpp)](https://github.com/ckormanyos/real-time-cpp)
+
 ## How busy am I ?
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ckormanyos&theme=dark)](https://git.io/streak-stats)
