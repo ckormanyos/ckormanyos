@@ -12,6 +12,10 @@ My areas of expertise include software implementation, teaching and training, pr
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ckormanyos&repo=real-time-cpp)](https://github.com/ckormanyos/real-time-cpp)
 
+## Favorite languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ckormanyos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## How busy am I ?
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ckormanyos&theme=dark)](https://git.io/streak-stats)
