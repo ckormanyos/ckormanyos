@@ -19,14 +19,10 @@ My areas of expertise include software implementation, teaching and training, pr
 
 ## Favorite languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ckormanyos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ckormanyos&exclude_repo=real-time-cpp-toolchains&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## How busy am I ?
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ckormanyos&theme=dark)](https://git.io/streak-stats)
 
 ![ckormanyos GitHub statistics](https://github-readme-stats.vercel.app/api?username=ckormanyos&theme=material-palenight&show_icons=true)
-
-## Find me at GitHub
-
-[![Github: ckormanyos](https://img.shields.io/badge/-ckormanyos-blue?style=flat-square&logo=GitHub&logoColor=white&color=black&link=https://github.com/ckormanyos)](https://github.com/ckormanyos)
