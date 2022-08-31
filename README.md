@@ -6,7 +6,6 @@ My areas of expertise include software implementation, teaching and training, pr
 
 - High-performance mathematical software and embedded-systems software.
 - Continually increasing software quality, performance and portability.
-- I’m looking for help with Docker.
 
 ## How busy am I ?
 
