@@ -1,4 +1,4 @@
-<h2 align="center">Welcome</h2>
+<h1 align="center">Welcome</h1>
 
 I'm a software developer, independent researcher and book author with focus on all aspects of high-performance, portable software. I have particular interest in embedded-systems software and mathematical software.
 
@@ -7,7 +7,7 @@ My areas of expertise include software implementation, teaching and training, pr
 - High-performance mathematical software and embedded-systems software.
 - Continually increasing software quality, performance and portability.
 
-<h3 align="center">How busy am I ?</h3>
+<h2 align="center">How busy am I ?</h2>
 
 <p align="center">
   <a href="https://github.com/ckormanyos?tab=repositories&sort=stargazers">
