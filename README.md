@@ -1,4 +1,4 @@
-# Welcome
+<h1 align="center">Welcome</h1>
 
 I'm a software developer, independent researcher and book author with focus on all aspects of high-performance, portable software. I have particular interest in embedded-systems software and mathematical software.
 
@@ -7,7 +7,7 @@ My areas of expertise include software implementation, teaching and training, pr
 - High-performance mathematical software and embedded-systems software.
 - Continually increasing software quality, performance and portability.
 
-## How busy am I ?
+<h1 align="center">How busy am I ?</h1>
 
 <p align="center">
   <a href="https://github.com/ckormanyos?tab=repositories&sort=stargazers">
@@ -18,16 +18,16 @@ My areas of expertise include software implementation, teaching and training, pr
 
 </br>
 <p align="center">
+  <a href="https://git.io/streak-stats">
+    <img
+      height="150"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=ckormanyos&theme=dark" />
+  </a>
+
   <a href="https://github.com/ckormanyos/github-readme-stats">
     <img
       height="150"
       src="https://github-readme-stats.vercel.app/api?username=ckormanyos&count_private=true&show_icons=true&custom_title=ckormanyos'%20Github%20Status&hide=issues&theme=vision-friendly-dark"
     />
    </a>
-
-  <a href="https://git.io/streak-stats">
-    <img
-      height="150"
-      src="https://github-readme-streak-stats.herokuapp.com/?user=ckormanyos&theme=dark" />
-  </a>  
 </p>
