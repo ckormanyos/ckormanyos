@@ -18,13 +18,13 @@ My areas of expertise include software implementation, teaching and training, pr
 
 </br>
 <p align="center">
-  <a href="https://git.io/streak-stats">
+  <a href="https://github.com/ckormanyos">
     <img
       height="150"
       src="https://github-readme-streak-stats.herokuapp.com/?user=ckormanyos&theme=dark" />
   </a>
 
-  <a href="https://github.com/ckormanyos/github-readme-stats">
+  <a href="https://github.com/ckormanyos">
     <img
       height="150"
       src="https://github-readme-stats.vercel.app/api?username=ckormanyos&count_private=true&show_icons=true&custom_title=ckormanyos'%20Github%20Status&hide=issues&theme=vision-friendly-dark"
