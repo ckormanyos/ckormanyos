@@ -33,7 +33,7 @@ My areas of expertise include software implementation, teaching and training, pr
 </p>
 
 <p align="center">
-  <a href="github-trophies.vercel.app">
+  <a href="https://github.com/ckormanyos">
     <img
       src="https://github-trophies.vercel.app/?username=ckormanyos&row=2&column=3" />
   </a>
