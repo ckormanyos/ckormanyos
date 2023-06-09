@@ -4,7 +4,8 @@ I'm a software developer, independent researcher and book author with focus on a
 
 My areas of expertise include software implementation, teaching and training, product development, continuous integration, quality, team leadership, international development, documentation and providing support roles.
 
-- High-performance mathematical software and embedded-systems software.
+- Embedded-systems software.
+- High-performance mathematical software.
 - Continually increasing software quality, performance and portability.
 
 <h2 align="center">How busy am I ?</h2>
