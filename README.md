@@ -1,6 +1,6 @@
 <h1 align="center">Welcome</h1>
 
-I'm a software developer, independent researcher and book author with focus on all aspects of high-performance, portable software. I have particular interest in embedded-systems software and mathematical software.
+I'm a software developer, independent researcher and book author with focus on all aspects of high-performance, portable software. I have particular interest in embedded-systems software, mathematical software and quality.
 
 My areas of expertise include software implementation, teaching and training, product development, continuous integration, quality, team leadership, international development, documentation and providing support roles.
 
