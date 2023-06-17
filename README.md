@@ -1,12 +1,13 @@
 <h1 align="center">Welcome</h1>
 
-I'm a software developer, independent researcher and book author with focus on all aspects of high-performance, portable software. I have particular interest in embedded-systems software, mathematical software and quality.
+I'm a software developer, book author and independent researcher with focus on all aspects of high-performance, portable software. I have particular interest in embedded-systems software, mathematical software and quality.
 
 My areas of expertise include software implementation, teaching and training, product development, continuous integration, quality, team leadership, international development, documentation and providing support roles.
 
-- Embedded-systems software.
-- High-performance mathematical software.
-- Continually increasing software quality, performance and portability.
+- Real-time embedded-systems software
+- High-performance mathematical software
+- Continuous integration systems
+- Software quality, performance and portability
 
 <h2 align="center">How busy am I ?</h2>
 
