@@ -2,11 +2,11 @@
 
 I'm a software developer, book author and independent researcher with focus on all aspects of high-performance, portable software. I have particular interest in embedded-systems software, mathematical software and quality.
 
-My areas of expertise include software implementation, teaching and training, product development, continuous integration, quality, team leadership, international development, documentation and providing support roles.
+My areas of expertise include software implementation, teaching and training, product development, large-scale build systems, continuous integration, quality, team leadership, international development, documentation and providing support roles.
 
 - Real-time embedded-systems software
 - High-performance mathematical software
-- Continuous integration systems
+- Large-scale build systems and continuous integration systems
 - Software quality, performance and portability
 
 <h2 align="center">How busy am I ?</h2>
