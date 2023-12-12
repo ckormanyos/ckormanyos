@@ -17,7 +17,7 @@ My areas of expertise include software implementation, teaching and training, pr
   <a href="https://github.com/ckormanyos?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/ckormanyos?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="[https://github.com/ckormanyos?tab=views](https://views.whatilearened.today/views/github/ckormanyos/views.svg)">
-    <img alt="Views" title="Views on Github" src="[https://views.whatilearened.today/views/github/ckormanyos/views.svg](https://views.whatilearened.today/views/github/ckormanyos/views.svg)"/></a>
+    <<img src="https://views.whatilearened.today/views/github/ckormanyos/views.svg"/>></a>
 </p>
 
 </br>
