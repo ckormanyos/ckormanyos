@@ -12,9 +12,9 @@ My areas of expertise include software implementation, teaching and training, pr
 <h2 align="center">How busy am I ?</h2>
 
 <p align="center">
-  <"https://github.com/ckormanyos?tab=repositories&sort=stargazers">
-  <"https://github.com/ckormanyos?tab=followers">
-  <"https://views.whatilearened.today/views/github/ckormanyos/views.svg"/>
+  <img src="https://github.com/ckormanyos?tab=repositories&sort=stargazers">
+  <img src="https://github.com/ckormanyos?tab=followers">
+  <img src="https://views.whatilearened.today/views/github/ckormanyos/views.svg"/>
   </p>
 
 </br>
