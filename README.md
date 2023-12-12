@@ -19,8 +19,7 @@ My areas of expertise include software implementation, teaching and training, pr
 </p>
 
 <p align="center">
-  <a href="https://github.com/ckormanyos?tab=views">
-    <img alt="views" title="Views me on Github" src="https://views.whatilearened.today/views/github/ckormanyos/views.svg?/></a>
+    <img src="https://views.whatilearened.today/views/github/ckormanyos/views.svg?/></a>
 </p>
 
 </br>
