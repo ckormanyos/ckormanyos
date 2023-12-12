@@ -19,7 +19,7 @@ My areas of expertise include software implementation, teaching and training, pr
 </p>
 
 <p align="center">
-    <img src="https://views.whatilearened.today/views/github/ckormanyos/views.svg?/></a>
+  <img src="https://views.whatilearened.today/views/github/ckormanyos/views.svg"/>  
 </p>
 
 </br>
