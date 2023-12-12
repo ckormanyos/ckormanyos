@@ -18,10 +18,6 @@ My areas of expertise include software implementation, teaching and training, pr
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/ckormanyos?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 
-<p align="center">
-  <img src="https://views.whatilearened.today/views/github/ckormanyos/views.svg"/>  
-</p>
-
 </br>
 <p align="center">
   <a href="https://github.com/ckormanyos">
@@ -38,3 +34,8 @@ My areas of expertise include software implementation, teaching and training, pr
       src="https://github-trophies.vercel.app/?username=ckormanyos&row=2&column=3" />
   </a>
 </p>
+
+<p align="center">
+  <img src="https://views.whatilearened.today/views/github/ckormanyos/views.svg"/>  
+</p>
+
