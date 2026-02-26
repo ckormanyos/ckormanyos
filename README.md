@@ -12,10 +12,10 @@ My areas of expertise include software implementation, teaching and training, pr
 <h2 align="center">How busy am I ?</h2>
 
 <p align="center">
-  <a href="https://github.com/ckormanyos?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/ckormanyos"/></a>
-  </br>
-    <img src="https://views.whatilearened.today/views/github/ckormanyos/views.svg"/>
+  <img src="https://img.shields.io/github/stars/ckormanyos?style=flat&label=Total%20Stars&color=gold" alt="Total Stars">
+  <img src="https://img.shields.io/badge/dynamic/json?label=Total%20Contributions&query=%24.totalContributions&url=https%3A%2F%2Fgithub-contributions-api.deno.dev%2Fckormanyos.json&color=blue" alt="Total Contributions">
+  <img src="https://img.shields.io/badge/dynamic/json?label=Repositories&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fckormanyos&color=blueviolet" alt="Total Repositories"> 
+  <img src="https://komarev.com/ghpvc/?username=ckormanyos&label=Profile%20Views&color=brightgreen&style=flat&base=3514" alt="Profile Views">
 </p>
 
 </br>
