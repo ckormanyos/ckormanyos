@@ -14,18 +14,11 @@ My areas of expertise include software implementation, teaching and training, pr
 <p align="center">
   <a href="https://github.com/ckormanyos?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/ckormanyos"/></a>
+  </a>
     <img src="https://views.whatilearened.today/views/github/ckormanyos/views.svg"/>
 </p>
 
 </br>
-<p align="center">
-  <a href="https://github.com/ckormanyos">
-    <img
-      height="150"
-      src="https://github-readme-stats.vercel.app/api?username=ckormanyos&count_private=true&show_icons=true&custom_title=ckormanyos'%20Github%20Status&hide=issues&theme=vision-friendly-dark"
-    />
-   </a>
-</p>
 
 <p align="center">
   <a href="https://github.com/ckormanyos">
