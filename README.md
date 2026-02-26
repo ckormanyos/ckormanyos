@@ -15,7 +15,7 @@ My areas of expertise include software implementation, teaching and training, pr
   <img src="https://img.shields.io/github/stars/ckormanyos?style=flat&label=Total%20Stars&color=gold" alt="Total Stars">
   <img src="https://img.shields.io/badge/dynamic/json?label=Total%20Contributions&query=%24.totalContributions&url=https%3A%2F%2Fgithub-contributions-api.deno.dev%2Fckormanyos.json&color=blue" alt="Total Contributions">
   <img src="https://img.shields.io/badge/dynamic/json?label=Repositories&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fckormanyos&color=blueviolet" alt="Total Repositories"> 
-  <img src="https://komarev.com/ghpvc/?username=ckormanyos&label=Profile%20Views&color=brightgreen&style=flat&base=3514" alt="Profile Views">
+  <img src="https://views.whatilearened.today/views/github/ckormanyos/views.svg"/>
 </p>
 
 </br>
